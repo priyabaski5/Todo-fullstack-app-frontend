@@ -2,7 +2,7 @@
 
 import axios from 'axios'
 
-const baseURL = "https://todo-fullstack-app-backend-3ley.onrender.com"
+const baseURL = "https://todo-fullstack-app-backend-1-zkhc.onrender.com"
 
 const getAllTodo = (setTodo) =>
 {
